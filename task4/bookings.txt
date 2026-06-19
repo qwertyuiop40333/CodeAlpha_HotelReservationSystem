@@ -1,0 +1,3 @@
+username,roomType,roomNumberenrageduser,Standard,102
+
+ty,Deluxe,202,1500
